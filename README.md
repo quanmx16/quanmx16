@@ -27,8 +27,8 @@
 <a href="https://github-readme-stats.vercel.app/api?username=quanmx16&show_icons=true&bg_color=45,e56346,904e95&title_color=feffac&text_color=ffffff&icon_color=713abe&ring_color=fcbaad">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=quanmx16&show_icons=true&bg_color=45,e56346,904e95&title_color=feffac&text_color=ffffff&icon_color=713abe&ring_color=fcbaad" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs?username=justanoobcoder&layout=compact&langs_count=8&card_width=320&bg_color=45,e56346,904e95&title_color=feffac&text_color=ffffff&hide=c,roff,Makefile,Lua,Swift,Objective-C">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=justanoobcoder&layout=compact&langs_count=8&card_width=320&bg_color=45,e56346,904e95&title_color=feffac&text_color=ffffff&hide=c,roff,Makefile,Lua,Swift,Objective-C" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs?username=quanmx16&layout=compact&langs_count=8&card_width=320&bg_color=45,e56346,904e95&title_color=feffac&text_color=ffffff&hide=c,roff,Makefile,Lua,Swift,Objective-C">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=quanmx16&layout=compact&langs_count=8&card_width=320&bg_color=45,e56346,904e95&title_color=feffac&text_color=ffffff&hide=c,roff,Makefile,Lua,Swift,Objective-C" />
 </a>
 
 ### 🤝 Connect with Me
